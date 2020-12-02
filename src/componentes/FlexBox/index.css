@@ -1,0 +1,25 @@
+.flex-box{
+    display: flex;
+    flex-direction: inherit ;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+ }
+ 
+ h1,
+ p{
+ text-align: center;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ color: #05910c;
+ font-size: 32px;
+ letter-spacing: 2px;
+ font-weight: 600;
+ padding-top: 40px;
+ margin-top: 20px;
+ }
+ body{
+     
+     background-image: linear-gradient( to top,#266429, #c0f8c3);
+
+ }
